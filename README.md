@@ -1,2 +1,6 @@
-# web-335
-Coursework for WEB 335 - NoSQL
+# Web-335
+
+## Contributors
+
+*Richard Krasso
+*Jennifer Snyder
