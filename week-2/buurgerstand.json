@@ -1,0 +1,19 @@
+{
+  "customer": {
+    "_id": "101",
+    "firstName": "Bob",
+    "lastName": "Belcher",
+    "burgers": [
+      {
+        "_id": "B01",
+        "burgerName": "The Classic Cheeseburger",
+        "price": "6.99"
+      },
+      {
+        "_id": "B02",
+        "burgerName": "Bacon Double Smashburger",
+        "price": "9.50"
+      }
+    ]
+  }
+}
