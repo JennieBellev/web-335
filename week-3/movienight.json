@@ -1,0 +1,46 @@
+{
+  "viewers": [
+    {
+      "_id": "v_1042",
+      "firstName": "Sarah",
+      "lastName": "Connor"
+    },
+    {
+      "_id": "v_1043",
+      "firstName": "Miles",
+      "lastName": "Dyson"
+    }
+  ],
+  "movies": [
+    {
+      "_id": "m_8801",
+      "movieName": "The Terminator",
+      "Genre": "Sci-Fi"
+    },
+    {
+      "_id": "m_8802",
+      "movieName": "Die Hard",
+      "Genre": "Action"
+    }
+  ],
+  "ratings": [
+    {
+      "_id": "r_5001",
+      "ratingScore": 5,
+      "viewerId": "v_1042",
+      "movieId": "m_8801"
+    },
+    {
+      "_id": "r_5002",
+      "ratingScore": 4,
+      "viewerId": "v_1042",
+      "movieId": "m_8802"
+    },
+    {
+      "_id": "r_5003",
+      "ratingScore": 5,
+      "viewerId": "v_1043",
+      "movieId": "m_8801"
+    }
+  ]
+}
