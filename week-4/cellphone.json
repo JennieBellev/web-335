@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "_id": "user_001",
+      "firstName": "Jennie",
+      "lastName": "Snyder",
+      "deviceIds": ["dev999", "dev002"] 
+    }
+  ],
+  "devices": [
+    {
+      "_id": "dev999",
+      "deviceName": "Motorola Flip 2025",
+      "deviceType": "Smartphone",
+      "charger_id": "chg555"
+    },
+    {
+      "_id": "dev002",
+      "deviceName": "Tablet",
+      "deviceType": "Tablet",
+      "charger_id": "chg888"
+    }
+  ],
+  "chargers": [
+    {
+      "_id": "chg555",
+      "chargerType": "USB-C Fast Charger",
+      "voltage": 65
+    },
+    {
+      "_id": "chg888",
+      "chargerType": "Standard USB",
+      "voltage": 10
+    }
+  ]
+}
